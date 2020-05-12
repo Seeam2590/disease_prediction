@@ -4,5 +4,5 @@
 
 ## Project Description:
 Goal of this project was to develop & compare different NNs to model & predict COVID-19 confirmed cases.
-The video for the project presentation can be found here
+The video for the project presentation can be found here: https://www.youtube.com/watch?v=XtAontZl-IE&feature=youtu.be
 
